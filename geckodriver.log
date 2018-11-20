@@ -1,0 +1,9 @@
+1542716954899	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.dnB2xxPoTg6M"
+1542716956594	Marionette	INFO	Listening on port 53278
+1542716956645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1542716961150	Marionette	INFO	Stopped listening on port 53278
