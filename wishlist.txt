@@ -1,6 +1,0 @@
-(lp0
-VCars
-p1
-aVThor
-p2
-a.
