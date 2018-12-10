@@ -442,36 +442,75 @@ JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceE
 JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
 JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
 1542467206429	Marionette	INFO	Stopped listening on port 56263
-1543337732614	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.2dlMMixqcj5Q"
-1543337734400	Marionette	INFO	Listening on port 50897
-1543337734482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542475491358	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.voD4ZYOFCHT0"
+1542475493964	Marionette	INFO	Listening on port 56689
+1542475494050	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
 JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
 JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
 JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
-1543337744029	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.pt4EtXEFhAax"
-1543337745698	Marionette	INFO	Listening on port 50950
-1543337745775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542475499412	Marionette	INFO	Stopped listening on port 56689
+1542475962253	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.LGxs8kInmEd6"
+1542475964326	Marionette	INFO	Listening on port 56800
+1542475964394	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
 JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
 JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
 JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
-1543337781009	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.EbYqdbk9jCUk"
-1543337782658	Marionette	INFO	Listening on port 51003
-1543337782748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542475969400	Marionette	INFO	Stopped listening on port 56800
+1542475982067	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.SrELvoSyjTkl"
+1542475983700	Marionette	INFO	Listening on port 56854
+1542475983715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
 
-###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
-
-1543337786929	Marionette	INFO	Stopped listening on port 51003
-1543337797976	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.7Pz9ASPuYLKD"
-1543337799597	Marionette	INFO	Listening on port 51046
-1543337799624	Marionette	WARN	TLS certificate errors will be ignored for this session
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
-
-1543337803729	Marionette	INFO	Stopped listening on port 51046
+1542477040269	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.64yu4ZOKzspP"
+1542477042080	Marionette	INFO	Listening on port 56950
+1542477042130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1542477082651	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.kUK4FbVQrOmt"
+1542477084364	Marionette	INFO	Listening on port 57004
+1542477084427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1542477120914	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.9T8bvbywW419"
+1542477122673	Marionette	INFO	Listening on port 57056
+1542477122763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+[Parent 21768, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+1542477127616	Marionette	INFO	Stopped listening on port 57056
+1542477148003	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.cXdYJRIEV4Xc"
+1542477149698	Marionette	INFO	Listening on port 57110
+1542477149739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1542477154388	Marionette	INFO	Stopped listening on port 57110
 console.error: BroadcastService: 
   receivedBroadcastMessage: handler for
   remote-settings/monitor_changes
@@ -488,5 +527,346 @@ console.error: BroadcastService:
   Stack:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
 
-1543338586547	Marionette	INFO	Stopped listening on port 50897
-1543338587865	Marionette	INFO	Stopped listening on port 50950
+1542479595290	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.Z2snsE3fAD0p"
+1542479597066	Marionette	INFO	Listening on port 57383
+1542479597139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1542479602150	Marionette	INFO	Stopped listening on port 57383
+1542481596711	Marionette	INFO	Stopped listening on port 56854
+1542481597029	Marionette	INFO	Stopped listening on port 56950
+1542481598361	Marionette	INFO	Stopped listening on port 57004
+1542631852223	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.Jh6pbHbBcH2c"
+1542631854826	Marionette	INFO	Listening on port 62119
+1542631854902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1542631860283	Marionette	INFO	Stopped listening on port 62119
+1542634854676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.6pykgmzkiO83"
+1542634856937	Marionette	INFO	Listening on port 62633
+1542634857039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542639979336	Marionette	INFO	Stopped listening on port 62633
+1542714126606	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.4gtXXqviorMQ"
+1542714129180	Marionette	INFO	Listening on port 52920
+1542714129246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1542714135036	Marionette	INFO	Stopped listening on port 52920
+1542879768048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.XqfxGuLGIxsR"
+1542879770681	Marionette	INFO	Listening on port 60513
+1542879770762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542879792742	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.u2fxXFYZ9A0h"
+1542879794581	Marionette	INFO	Listening on port 60567
+1542879794610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542879819837	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.mORyyh5Yu8Zy"
+1542879821578	Marionette	INFO	Listening on port 60610
+1542879821674	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  remote-settings/monitor_changes
+  threw error:
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542879885725	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.c4XDca5ekzAg"
+1542879887573	Marionette	INFO	Listening on port 60658
+1542879887667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542879893211	Marionette	INFO	Stopped listening on port 60658
+1542880017809	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.a2vhABNgiQEB"
+1542880019617	Marionette	INFO	Listening on port 60747
+1542880019677	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1542880032947	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.PIXNbdjIMGNE"
+1542880034826	Marionette	INFO	Listening on port 60800
+1542880034893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1542880044482	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.XgIxfS2bZ86c"
+1542880046181	Marionette	INFO	Listening on port 60855
+1542880046236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1542880061218	Marionette	INFO	Stopped listening on port 60513
+1542880062310	Marionette	INFO	Stopped listening on port 60567
+1542880063529	Marionette	INFO	Stopped listening on port 60610
+1542880064753	Marionette	INFO	Stopped listening on port 60747
+1542880069109	Marionette	INFO	Stopped listening on port 60800
+1542880070338	Marionette	INFO	Stopped listening on port 60855
+1542880080250	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.yn9AaHc7WFUg"
+1542880081888	Marionette	INFO	Listening on port 60907
+1542880081982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1542880120405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.cLIa8bvwTBsX"
+1542880122180	Marionette	INFO	Listening on port 60958
+1542880122247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542880127402	Marionette	INFO	Stopped listening on port 60958
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542881376006	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.8kUOH2qTQQKG"
+1542881377844	Marionette	INFO	Listening on port 61368
+1542881377944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1542881382915	Marionette	INFO	Stopped listening on port 61368
+1542881403484	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.z6YvicwFENPn"
+1542881405161	Marionette	INFO	Listening on port 61426
+1542881405224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1542881427585	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.uaK20x9xMV9y"
+1542881429339	Marionette	INFO	Listening on port 61477
+1542881429411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1542881480463	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.jdFRCr6s5d9s"
+1542881482140	Marionette	INFO	Listening on port 61530
+1542881482206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542881486789	Marionette	INFO	Stopped listening on port 61530
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542881720143	Marionette	INFO	Stopped listening on port 60907
+1542881721796	Marionette	INFO	Stopped listening on port 61477
+1542881723056	Marionette	INFO	Stopped listening on port 61426
+1542899791389	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.aKuQGBAAn09t"
+1542899793789	Marionette	INFO	Listening on port 64206
+1542899793859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542899798775	Marionette	INFO	Stopped listening on port 64206
+1544416262332	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.sGm7b4kPi1IP"
+1544416265186	Marionette	INFO	Listening on port 61384
+1544416265262	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1544416270215	Marionette	INFO	Stopped listening on port 61384
+1544416297813	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.vEp7zrCrHNVX"
+1544416299493	Marionette	INFO	Listening on port 61438
+1544416299541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544416303644	Marionette	INFO	Stopped listening on port 61438
+1544416326622	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.vhwVwkRCEzKb"
+1544416328332	Marionette	INFO	Listening on port 61486
+1544416328351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544416332757	Marionette	INFO	Stopped listening on port 61486
+1544416336365	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.u3mnIrCUPne0"
+1544416338064	Marionette	INFO	Listening on port 61525
+1544416338113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544416342433	Marionette	INFO	Stopped listening on port 61525
+1544416349000	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.MVIAPlmhZxn2"
+1544416350697	Marionette	INFO	Listening on port 61564
+1544416350736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1544416443447	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.7mj4UaPThl67"
+1544416445229	Marionette	INFO	Listening on port 61620
+1544416445300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544416449841	Marionette	INFO	Stopped listening on port 61620
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544416954864	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.n8MIrTbyIp7N"
+1544416956723	Marionette	INFO	Listening on port 61781
+1544416956820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544417023266	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.ds6uWJvhKLaD"
+1544417025108	Marionette	INFO	Listening on port 61831
+1544417025122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544417039460	Marionette	INFO	Stopped listening on port 61564
+1544417040797	Marionette	INFO	Stopped listening on port 61781
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1544417042095	Marionette	INFO	Stopped listening on port 61831
+1544417188495	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.KOImM1IoBint"
+1544417190287	Marionette	INFO	Listening on port 61883
+1544417190353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544417228218	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.PSnfmbaK4w7p"
+1544417229878	Marionette	INFO	Listening on port 61933
+1544417229962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+[Child 17518, MediaPlayback #1] WARNING: Decoder=12359f080 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 17518, MediaPlayback #3] WARNING: Decoder=12359f080 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1544417326025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.oqrpwFsbtN8g"
+1544417327876	Marionette	INFO	Listening on port 62023
+1544417327883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544417352535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.o23TtUvFUisX"
+1544417354320	Marionette	INFO	Listening on port 62064
+1544417354384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1544417383083	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.8s8xJ1DFTKwd"
+1544417384903	Marionette	INFO	Listening on port 62117
+1544417384941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.omdbapi.com/src/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+JavaScript error: http://www.omdbapi.com/src/application.js, line 16: ReferenceError: event is not defined
+1544417415911	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.KWwwS013mkFm"
+1544417417694	Marionette	INFO	Listening on port 62172
+1544417417760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544417549857	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.tLlSwlid8J5Y"
+1544417551629	Marionette	INFO	Listening on port 62228
+1544417551712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544417721474	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.5MiPY9aBWRfO"
+1544417723393	Marionette	INFO	Listening on port 62283
+1544417723458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544417769730	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.FbyIQgBj0ANP"
+1544417771582	Marionette	INFO	Listening on port 62327
+1544417771599	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/target.js, line 532: TypeError: this._tab.ownerDocument.defaultView is null
+1544417806748	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.7Qw1kgi4HfWv"
+1544417808504	Marionette	INFO	Listening on port 62377
+1544417808600	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7
+
+1544417913366	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.APJzK1thIfoy"
+1544417915435	Marionette	INFO	Listening on port 62430
+1544417915536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544417923584	Marionette	INFO	Stopped listening on port 61883
+1544417923875	Marionette	INFO	Stopped listening on port 61933
+1544417924961	Marionette	INFO	Stopped listening on port 62023
+1544417926104	Marionette	INFO	Stopped listening on port 62064
+1544417927208	Marionette	INFO	Stopped listening on port 62117
+1544417928353	Marionette	INFO	Stopped listening on port 62172
+1544417929453	Marionette	INFO	Stopped listening on port 62228
+1544417930781	Marionette	INFO	Stopped listening on port 62283
+1544417933417	Marionette	INFO	Stopped listening on port 62327
+1544417934394	Marionette	INFO	Stopped listening on port 62377
+1544417935630	Marionette	INFO	Stopped listening on port 62430
+1544417954887	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.nqORa7aUSljB"
+1544417956538	Marionette	INFO	Listening on port 62475
+1544417956629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544417992815	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.hvkQoraMsSD2"
+1544417994498	Marionette	INFO	Listening on port 62516
+1544417994557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544417999617	Marionette	INFO	Stopped listening on port 62516
+1544418083896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.UiHkG9dPdFYX"
+1544418085613	Marionette	INFO	Listening on port 62572
+1544418085641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544418089765	Marionette	INFO	Stopped listening on port 62572
+1544418116089	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.t6rxDGDS3wLM"
+1544418117790	Marionette	INFO	Listening on port 62619
+1544418117831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+1544418123440	Marionette	INFO	Stopped listening on port 62619
+1544418223392	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.c3DBdvAgwN8J"
+1544418225069	Marionette	INFO	Listening on port 62665
+1544418225135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544418230053	Marionette	INFO	Stopped listening on port 62665
+1544418263601	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/9p0l9b8j64vccz0kvs8tm9qh0000gn/T/rust_mozprofile.sKXaPs2dWb6p"
+1544418265270	Marionette	INFO	Listening on port 62710
+1544418265366	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1544418269487	Marionette	INFO	Stopped listening on port 62710
